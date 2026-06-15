@@ -1,0 +1,50 @@
+{
+    "management_team": [
+        {
+            "id": "id1",
+            "name": "Ahmed Raza",
+            "father_name": "Raza Karim",
+            "age": 34,
+            "designation": "Project Manager",
+            "email": "ahmed.raza@company.com",
+            "profile_url": "https://company.com/profiles/ahmed-raza"
+        },
+        {
+            "id": "id3",
+            "name": "Bilal Ahmed",
+            "father_name": "Tariq Ahmed",
+            "age": 31,
+            "designation": "Finance Officer",
+            "email": "bilal.ahmed@company.com",
+            "profile_url": "https://company.com/profiles/bilal-ahmed"
+        },
+        {
+            "id": "id4",
+            "name": "Ayesha Malik",
+            "father_name": "Malik Usman",
+            "age": 27,
+            "designation": "Operations Executive",
+            "email": "ayesha.malik@company.com",
+            "profile_url": "https://company.com/profiles/ayesha-malik"
+        },
+        {
+            "id": "id5",
+            "name": "Hassan Ali",
+            "father_name": "Ali Nawaz",
+            "age": 38,
+            "designation": "IT Administrator",
+            "email": "hassan.ali@company.com",
+            "profile_url": "https://company.com/profiles/hassan-ali"
+        },
+        {
+            "id": "id34",
+            "name": "USman",
+            "father_name": "mano",
+            "age": 3,
+            "designation": "office",
+            "email": "user@example.com",
+            "profile_url": "hhhtpurl"
+        }
+    ]
+}
+
